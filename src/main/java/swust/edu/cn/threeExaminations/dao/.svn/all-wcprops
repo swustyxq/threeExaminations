@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/QTTest/!svn/ver/2823/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/dao
+END
+AreaMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/QTTest/!svn/ver/2313/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/dao/AreaMapper.java
+END
+UserMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/QTTest/!svn/ver/887/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/dao/UserMapper.java
+END
+ThreeCheckServiceMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/QTTest/!svn/ver/2823/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/dao/ThreeCheckServiceMapper.java
+END
+UserAuthorityMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/QTTest/!svn/ver/503/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/dao/UserAuthorityMapper.java
+END
+AnnouncementMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/QTTest/!svn/ver/1044/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/dao/AnnouncementMapper.java
+END
+ThreeCheckCountMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/QTTest/!svn/ver/812/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/dao/ThreeCheckCountMapper.java
+END
+TaskMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/QTTest/!svn/ver/1908/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/dao/TaskMapper.java
+END
+LogMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/QTTest/!svn/ver/409/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/dao/LogMapper.java
+END
+AttachmentMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/QTTest/!svn/ver/1437/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/dao/AttachmentMapper.java
+END
+AuthorityMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/QTTest/!svn/ver/503/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/dao/AuthorityMapper.java
+END
+ScreeningRulesMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/QTTest/!svn/ver/409/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/dao/ScreeningRulesMapper.java
+END

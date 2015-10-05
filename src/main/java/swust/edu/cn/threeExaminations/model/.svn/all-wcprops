@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/QTTest/!svn/ver/2366/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/model
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/QTTest/!svn/ver/409/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/model/Log.java
+END
+Task.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/QTTest/!svn/ver/33/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/model/Task.java
+END
+ThreeCheckServiceWithBLOBs.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/QTTest/!svn/ver/409/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/model/ThreeCheckServiceWithBLOBs.java
+END
+ThreeCheckService.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/QTTest/!svn/ver/2366/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/model/ThreeCheckService.java
+END
+UserAuthority.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/QTTest/!svn/ver/33/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/model/UserAuthority.java
+END
+Area.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/QTTest/!svn/ver/33/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/model/Area.java
+END
+Attachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/QTTest/!svn/ver/33/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/model/Attachment.java
+END
+Authority.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/QTTest/!svn/ver/33/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/model/Authority.java
+END
+ScreeningRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/QTTest/!svn/ver/409/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/model/ScreeningRules.java
+END
+Announcement.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/QTTest/!svn/ver/33/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/model/Announcement.java
+END
+ThreeCheckCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/QTTest/!svn/ver/746/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/model/ThreeCheckCount.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/QTTest/!svn/ver/704/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/model/User.java
+END

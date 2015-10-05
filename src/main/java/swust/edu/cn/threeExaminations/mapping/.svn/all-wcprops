@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/QTTest/!svn/ver/2823/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/mapping
+END
+AnnouncementMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/QTTest/!svn/ver/1768/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/mapping/AnnouncementMapper.xml
+END
+UserAuthorityMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/QTTest/!svn/ver/504/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/mapping/UserAuthorityMapper.xml
+END
+UserMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/QTTest/!svn/ver/1149/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/mapping/UserMapper.xml
+END
+ThreeCheckServiceMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/QTTest/!svn/ver/2823/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/mapping/ThreeCheckServiceMapper.xml
+END
+AreaMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/QTTest/!svn/ver/2314/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/mapping/AreaMapper.xml
+END
+ScreeningRulesMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/QTTest/!svn/ver/409/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/mapping/ScreeningRulesMapper.xml
+END
+AttachmentMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/QTTest/!svn/ver/1438/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/mapping/AttachmentMapper.xml
+END
+AuthorityMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/QTTest/!svn/ver/756/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/mapping/AuthorityMapper.xml
+END
+LogMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/QTTest/!svn/ver/409/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/mapping/LogMapper.xml
+END
+ThreeCheckCountMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/QTTest/!svn/ver/1443/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/mapping/ThreeCheckCountMapper.xml
+END
+TaskMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/QTTest/!svn/ver/1908/threeExaminations/src/main/java/swust/edu/cn/threeExaminations/mapping/TaskMapper.xml
+END
